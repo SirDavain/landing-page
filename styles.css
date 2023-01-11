@@ -31,6 +31,11 @@ body {
     align-items: flex-end;
 }
 
+.container {
+    display: flex;
+    flex-grow: 1;
+}
+
 .top {
     background-color: #1f2937;
     color: white;
